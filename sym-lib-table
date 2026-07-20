@@ -1,6 +1,6 @@
 (sym_lib_table
-  (version 7)
-  (lib (name "CYUSB3082-FCAXI")(type "KiCad")(uri "${KIPRJMOD}/Infineon/CYUSB3082-FCAXI.kicad_sym")(options "")(descr ""))
-  (lib (name "TPS25221")(type "KiCad")(uri "${KIPRJMOD}/TPS25221.kicad_sym")(options "")(descr ""))
-  (lib (name "Lattice_ECP_FPGA")(type "Legacy")(uri "${KIPRJMOD}/Lattice_ECP_FPGA.lib")(options "")(descr ""))
+	(version 7)
+	(lib (name "CYUSB3082-FCAXI") (type "KiCad") (uri "${KIPRJMOD}/library/CYUSB3082-FCAXI.kicad_sym") (options "") (descr ""))
+	(lib (name "TPS25221") (type "KiCad") (uri "${KIPRJMOD}/library/TPS25221.kicad_sym") (options "") (descr ""))
+	(lib (name "Si5340") (type "KiCad") (uri "${KIPRJMOD}/library/Si5340.kicad_sym") (options "") (descr ""))
 )
